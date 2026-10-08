@@ -22,8 +22,10 @@ El precio depende de la cantidad, los materiales, el formato y el plazo. Tras co
 
 ## Cuéntame qué necesitas
 
-[**Abrir una consulta de servicio**](https://github.com/velezjuanmanuel11-png/muestras-servicios-digitales/issues/new?template=solicitud.yml)
+Si recibiste este enlace por correo, WhatsApp o una publicación comercial, **puedes responder en esa misma conversación**. Cuéntame qué necesitas, para qué lo usarás, la cantidad aproximada y tu plazo. No necesitas una cuenta de GitHub para ver las muestras o responder por ese canal.
 
-Necesitas una cuenta de GitHub. **La consulta será pública**: describe el servicio sin incluir correos, teléfonos, datos de pago, claves, conversaciones ni archivos privados. Si compartes un enlace, debe ser público y apto para que cualquiera lo vea.
+También puedes [**abrir una consulta de servicio en GitHub**](https://github.com/velezjuanmanuel11-png/muestras-servicios-digitales/issues/new?template=solicitud.yml).
+
+Para usar este formulario necesitas una cuenta de GitHub. **La consulta será pública**: describe el servicio sin incluir correos, teléfonos, datos de pago, claves, conversaciones ni archivos privados. Si compartes un enlace, debe ser público y apto para que cualquiera lo vea.
 
 El formulario inicia una conversación. No es un contrato, una aceptación de trabajo ni una cotización automática. Los detalles privados y el uso de materiales se acordarán por un canal adecuado antes de empezar.

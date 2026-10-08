@@ -1,7 +1,7 @@
 # Operación del flujo
 
 1. Comparte el enlace del portafolio únicamente en una conversación comercial pertinente.
-2. El interesado revisa las muestras y abre una consulta pública de servicio. Debe tener cuenta de GitHub y evitar datos privados.
+2. El interesado revisa las muestras y puede responder en la conversación comercial donde recibió el enlace, sin tener cuenta de GitHub. Como alternativa, abre una consulta pública de servicio en GitHub: para ese formulario sí necesita cuenta y debe evitar datos privados.
 3. Juan Manuel revisa la necesidad, confirma capacidad, extensión, materiales autorizados y plazo tentativo. Una consulta no es un pedido.
 4. El alcance, precio, forma de pago y condiciones se acuerdan por un canal adecuado con intervención de Juan Manuel. Los documentos privados no se suben al repositorio ni a sus consultas públicas.
 5. Se prepara una versión revisada y se entrega por el canal acordado. La aceptación del alcance y de la entrega se conserva de forma privada.
