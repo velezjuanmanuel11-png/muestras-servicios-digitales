@@ -1,0 +1,10 @@
+.env
+.env.*
+registros/
+evidencia/
+conversaciones/
+cobros/
+privado/
+node_modules/
+*.log
+*.zip

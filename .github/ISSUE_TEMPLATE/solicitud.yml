@@ -1,0 +1,54 @@
+name: Consulta de servicio
+description: Cuéntame qué necesitas sin compartir datos privados. La consulta será pública.
+title: "[Consulta] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Esta consulta es pública y requiere una cuenta de GitHub.**
+        No incluyas emails, teléfonos, datos de pago, claves, conversaciones ni archivos privados. Comparte únicamente información que pueda ver cualquier persona.
+        El envío no constituye un contrato ni confirma un pedido. El alcance, el precio y el plazo se revisan antes de aceptar un trabajo; no hay cotización automática.
+  - type: dropdown
+    id: servicio
+    attributes:
+      label: Servicio que te interesa
+      options:
+        - Corrección de un texto breve
+        - Textos para publicaciones, WhatsApp o guion breve
+        - Catálogo, fichas de productos o menú
+        - Pieza gráfica animada
+        - Necesito orientación sobre el alcance
+    validations:
+      required: true
+  - type: textarea
+    id: objeto
+    attributes:
+      label: Qué necesitas y para qué
+      description: Resume el objetivo en dos o tres frases, sin datos privados ni documentos del cliente.
+      placeholder: "Quiero ordenar las descripciones de una selección de productos para compartirlas por WhatsApp."
+    validations:
+      required: true
+  - type: input
+    id: extension
+    attributes:
+      label: Extensión o cantidad aproximada
+      description: Indica palabras, fichas, publicaciones o segundos; una estimación es suficiente.
+      placeholder: "Por ejemplo: 500 palabras, 8 fichas o una pieza de 15 segundos."
+    validations:
+      required: true
+  - type: input
+    id: plazo
+    attributes:
+      label: Plazo orientativo
+      description: Indica cuándo lo necesitarías y si tienes flexibilidad. El plazo final requiere confirmación.
+      placeholder: "Por ejemplo: la próxima semana, con fecha flexible."
+    validations:
+      required: true
+  - type: input
+    id: enlace_publico
+    attributes:
+      label: Enlace público de referencia (opcional)
+      description: Solo una página que cualquiera pueda ver. No enlaces a archivos privados, conversaciones o datos de pago.
+      placeholder: "https://..."
+    validations:
+      required: false
